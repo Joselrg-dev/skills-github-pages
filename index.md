@@ -17,11 +17,11 @@ Soy un apasionado del desarrollo de software con experiencia en:
 
 ## Proyectos Destacados
 
-### 1. [Nombre del Proyecto 1](https://github.com/Joselrg-dev/WebProjectMvc )
+### 1. [Sistema de gestión de inventario y facturación](https://github.com/Joselrg-dev/WebProjectMvc )
 - Descripción breve del proyecto.
 - Tecnologías utilizadas: C#, .NET Core, SQL Server.
 
-### 2. [Nombre del Proyecto 2](https://github.com/Joselrg-dev/Portafolio)
+### 2. [Single Page: Curriculum](https://github.com/Joselrg-dev/Portafolio)
 - Descripción breve del proyecto.
 - Tecnologías utilizadas: ASP.NET MVC, Entity Framework, Bootstrap.
 
@@ -39,6 +39,6 @@ Soy un apasionado del desarrollo de software con experiencia en:
 
 Puedes contactarme a través de:
 
-- 📧 Email: [tuemail@example.com](mailto:tuemail@example.com)
-- 💼 LinkedIn: [Mi Perfil](https://www.linkedin.com/in/tuperfil)
-- 🐙 GitHub: [tunombre](https://github.com/tunombre)
+- 📧 Email: [jr7035960@gmail.com](mailto:jr7035960@gmail.com)
+- 💼 LinkedIn: [José Rodríguez](https://www.linkedin.com/in/tuperfil)
+- 🐙 GitHub: [José Rodríguez](https://github.com/Joselrg-dev)
